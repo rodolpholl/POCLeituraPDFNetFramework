@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34818.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCLeituraPDFNetFramework", "POCLeituraPDFNetFramework.csproj", "{8F829361-3F39-49A0-8465-05194F8E09DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F829361-3F39-49A0-8465-05194F8E09DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F829361-3F39-49A0-8465-05194F8E09DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F829361-3F39-49A0-8465-05194F8E09DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F829361-3F39-49A0-8465-05194F8E09DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E45CAF18-66E0-48DF-907F-7C46FF23B9CD}
+	EndGlobalSection
+EndGlobal
